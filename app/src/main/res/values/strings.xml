@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SYN_Lab06</string>
+    <string name="Введите_название_холодильника">Введите название или объем</string>
+    <string name="Загрузка_данных">Загрузка данных…</string>
+    <string name="Выход">Выход</string>
+    <string name="Написать_предложение_автору">Написать предложение автору</string>
+    <string name="myemail">yekaterina.n.suslova@gmail.com</string>
+    <string name="Добавьте_еще_холодильник">Добавьте еще холодильник</string>
+    <string name="Предлагаю_такой_холодильник">Предлагаю такой холодильник в вашу программу:</string>
+    <string name="Посылка_письма">Посылка письма…</string>
+    <string name="Нет_установленного_почтового_клиента">Нет установленного почтового клиента, увы (</string>
+    <string name="Большой_шрифт">Большой шрифт</string>
+</resources>
